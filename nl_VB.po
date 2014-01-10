@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Omeka\n"
 "Report-Msgid-Bugs-To: omeka-dev@googlegroups.com\n"
 "POT-Creation-Date: 2012-11-26 14:33-0500\n"
-"PO-Revision-Date: 2013-05-08 16:02+0100\n"
+"PO-Revision-Date: 2014-01-10 13:26+0100\n"
 "Last-Translator: Iwe EC Muiser <e.c.muiser@utwente.nl>\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/"
 "omeka/language/nl_NL/)\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.5.5\n"
+"X-Generator: Poedit 1.6.3\n"
 
 #. Dublin Core description
 msgid ""
@@ -102,7 +102,7 @@ msgstr ""
 #. Dublin Core: Type element name
 #: admin/themes/default/items/browse.php:42
 msgid "Type"
-msgstr "Type"
+msgstr "Type bron"
 
 #. Dublin Core: Type element description
 msgid "The nature or genre of the resource"
@@ -118,7 +118,7 @@ msgstr ""
 
 #. Dublin Core: Identifier element name
 msgid "Identifier"
-msgstr "Aanduiding"
+msgstr "Identificatie code"
 
 #. Dublin Core: Identifier element description
 msgid "An unambiguous reference to the resource within a given context"
@@ -1257,7 +1257,7 @@ msgstr "Persoonlijk"
 #: admin/themes/default/items/search-form.php:13
 #: application/views/scripts/items/search-form.php:13
 msgid "Search for Keywords"
-msgstr "Zoek op zoekwoorden"
+msgstr "Zoek op alles"
 
 #: admin/themes/default/items/search-form.php:26
 #: application/views/scripts/items/search-form.php:25
@@ -2346,7 +2346,7 @@ msgstr "Wachtwoord moet 6 tekens lang zijn."
 
 #: application/forms/ChangePassword.php:28
 msgid "Invalid current password"
-msgstr ""
+msgstr "Verkeerd huidig wachtwoord"
 
 #: application/forms/ChangePassword.php:34
 msgid "New Password"
@@ -2363,7 +2363,7 @@ msgstr "Het nieuwe wachtwoord moet twee keer correct ingetypt worden."
 
 #: application/forms/ChangePassword.php:59
 msgid "New password must be at least %min% characters long."
-msgstr ""
+msgstr "Het nieuwe wachtwoord moet tenminste %min% tekens lang zijn."
 
 #: application/forms/ChangePassword.php:68
 msgid "Repeat New Password"
@@ -2671,7 +2671,7 @@ msgstr "Schermnaam"
 
 #: application/forms/User.php:81
 msgid "Name as it should be displayed on the site"
-msgstr ""
+msgstr "Naam zoals deze zal worden weergegeven op de site"
 
 #: application/forms/User.php:87 application/models/User.php:91
 msgid "Real Name is required."
